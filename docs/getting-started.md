@@ -35,4 +35,12 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- Great work, conscientiousness rising!
+
+- Super active!
+
+- Unusually assiduous!
+
+- Busy improving the repo!
+
+- Your care is not unnoticed!
